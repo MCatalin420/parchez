@@ -20,6 +20,7 @@ export default function Home() {
         <div className={subtitle({ class: "mt-4" })}>
           O platforma rapida, simpla si intuitiva pentru gasirea locurilor de parcare.
         </div>
+        <input type="text" />
       </div>
 
       <div className="flex gap-3">
